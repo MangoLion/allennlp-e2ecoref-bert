@@ -8,4 +8,4 @@ If you want to train the model using the training config file
 - Run ```allennlp train training_config.json -s ./model_output_folder```
 
 ## Using the model
-My trained CR model is too large, so I'm still uploading it~~ I uploaded it [here]()~~
+My trained CR model is too large, so I'm still uploading it ~~ I uploaded it [here]() ~~
